@@ -11,6 +11,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install sphinx sphinx_rtd_theme
+          pip install sphinxcontrib-geogebra @ https://github.com/edbook/sphinxcontrib-geogebra/archive/refs/tags/v2.0.zip
       - name: Sphinx build
         run: |
           sphinx-build doc _build
