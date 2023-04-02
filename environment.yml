@@ -19,5 +19,5 @@ dependencies:
   - sphinx_rtd_theme=0.5.2
   - pip
   - pip:
-    - sphinxcontrib-geogebra @ https://github.com/edbook/sphinxcontrib-geogebra/archive/refs/tags/v2.0.zip
+    # - sphinxcontrib-geogebra @ https://github.com/edbook/sphinxcontrib-geogebra/archive/refs/tags/v2.0.zip
     #    - jupyterlab-github==2.0.0
