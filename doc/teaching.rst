@@ -15,6 +15,3 @@ Courses
 * Complex Analysis (STÆ301G)
 * Complex Analysis II (STÆ606M)
 
-
-.. ggb:: rntz7z2y
-
