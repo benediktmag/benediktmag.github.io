@@ -173,8 +173,8 @@ html_theme = "sphinx_rtd_theme"
 
 html_context = {
   'display_github': True,
-  'github_user': 'edbook',
-  'github_repo': 'haskoli-islands',
+  'github_user': 'benediktmag',
+  'github_repo': 'benediktmag.github.io',
   'github_version': str('master/src/projects/'+os.path.split(os.getcwd())[1]+'/'),
 }
 
