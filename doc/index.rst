@@ -17,7 +17,7 @@ My research field is pluripotential theory and complex analysis.
    research
    teaching
    edbook
-
+   other
 
 
 .. image:: bsm.jpg
