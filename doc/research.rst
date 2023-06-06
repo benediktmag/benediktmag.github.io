@@ -6,6 +6,7 @@ In particular, extremal function, disc formulas and polynomial approximation.
 
 Papers
 ------
+* `Polynomials with exponents in compact convex sets and associated weighted extremal functions -- The Bernstein-Walsh-Siciak theorem <https://arxiv.org/abs/2306.02486>`_. Magnússon, B. S., Sigurðsson, R. & Snorrason, B., 2023, arXiv:2306.02486. 
 
 * A characterization of totally real carleman sets and an application to products of stratified totally real sets. Magnusson, B. S. & Forness Wold, E., 2016,  Mathematica Scandinavica. 118, 2, s. 285-290 6 s.
 
