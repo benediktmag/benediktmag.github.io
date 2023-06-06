@@ -6,13 +6,13 @@ In particular, extremal function, disc formulas and polynomial approximation.
 
 Papers
 ------
-* `Polynomials with exponents in compact convex sets and associated weighted extremal functions -- The Bernstein-Walsh-Siciak theorem <https://arxiv.org/abs/2306.02486>`_. Benedikt Magnússon, Ragnar Sigurðsson & Bergur Snorrason, 2023, arXiv:2306.02486. 
+* *Polynomials with exponents in compact convex sets and associated weighted extremal functions -- The Bernstein-Walsh-Siciak theorem*. Benedikt Magnússon, Ragnar Sigurðsson & Bergur Snorrason, 2023, `arXiv:2306.02486 <https://arxiv.org/abs/2306.02486>`_. 
 
-* `Polynomials with exponents in compact convex sets and associated weighted extremal functions -- The Siciak-Zakharyuta theorem <https://arxiv.org/abs/2305.08260>`_. Benedikt Magnússon, Álfheiður Edda Sigurðardóttir & Ragnar Sigurðsson, 2023, arXiv:2305:08260.
+* *Polynomials with exponents in compact convex sets and associated weighted extremal functions -- The Siciak-Zakharyuta theorem*. Benedikt Magnússon, Álfheiður Edda Sigurðardóttir & Ragnar Sigurðsson, 2023, `arXiv:2305:08260 <https://arxiv.org/abs/2305.08260>`_.
 
-* `Polynomials with exponents in compact convex sets and associated weighted extremal functions -- Characterization of polynomials by L2-estimates <https://arxiv.org/abs/2305.06847>_. Benedikt Magnússon, Álfheiður Edda Sigurðardóttir, Ragnar Sigurðsson & Bergur Snorrason, 2023, arXiv:2305:06847.
+* *Polynomials with exponents in compact convex sets and associated weighted extremal functions -- Characterization of polynomials by L2-estimates*. Benedikt Magnússon, Álfheiður Edda Sigurðardóttir, Ragnar Sigurðsson & Bergur Snorrason, 2023, `arXiv:2305:06847 <https://arxiv.org/abs/2305.06847>`_.
 
-* `Polynomials with exponents in compact convex sets and associated weighted extremal functions -- Fundamental results <https://arxiv.org/abs/2305.04779>`_. Benedikt Magnússon, Álfheiður Edda Sigurðardóttir, Ragnar Sigurðsson & Bergur Snorrason, 2023, arXiv:2305.04779.
+* *Polynomials with exponents in compact convex sets and associated weighted extremal functions -- Fundamental results*. Benedikt Magnússon, Álfheiður Edda Sigurðardóttir, Ragnar Sigurðsson & Bergur Snorrason, 2023, `arXiv:2305.04779 <https://arxiv.org/abs/2305.04779>`_.
 
 * *A characterization of totally real carleman sets and an application to products of stratified totally real sets*. Benedikt Magnússon & Erlend Forness Wold, 2016,  Mathematica Scandinavica. 118, 2, p. 285-290. `doi:10.7146/math.scand.a-23690 <https://doi.org/10.7146/math.scand.a-23690>`_
 
